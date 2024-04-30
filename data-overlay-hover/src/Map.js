@@ -6,7 +6,7 @@ import './Map.css';
 import data from './data.json';
 
 mapboxgl.accessToken =
-  'pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4M29iazA2Z2gycXA4N2pmbDZmangifQ.-g_vE53SD2WrJ6tFX7QHmA';
+  'pk.eyJ1Ijoia2VlbmFuLWF0LWtub3ciLCJhIjoiY2x2bWlsaTBoMDJ2ZzJrdHRxZGNxcTlwYyJ9.Xpa5ZG-04Lc0mWfooI4PNw';
 
 const Map = () => {
   const options = [
